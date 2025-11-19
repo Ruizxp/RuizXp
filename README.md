@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andrés Ruiz</h1>
-<h3 align="center">Biomedical Engineering and interested in AI</h3>
+<h3 align="center">Biomedical Engineering focused on AI</h3>
 
 
 
-- 🔭 I’m currently working as Field service engineer
+- 🔭 I’m currently working as Field service engineer of medical devices
 
 - 🌱 I’m currently learning about **AI**
 
-- 👯 I’m looking to collaborate on **interesting projects**
+- 👯 I’m looking to collaborate on **interesting AI projects**
 
-- 🤖 I also know about **Python, machine learning and data science**
+- 🤖 I know about **Machine learning and data science**
 
 - 💬 Ask me about **Python, SQL, Statistics, Matlab**
 
