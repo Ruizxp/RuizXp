@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Ruiz</h1>
-<h3 align="center">Biomedical Engineering focused on AI</h3>
+<h3 align="center">Bioengineer</h3>
 
 
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, Statistics, Matlab**
 
-- 📫 How to reach me **andrt230@gmail.com**
+- 📫 How to reach me **artrading130@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
